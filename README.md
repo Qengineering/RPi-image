@@ -26,9 +26,11 @@ We are regularly asked if we don't have an image of our Raspberry Pi with the [d
 
 ## Contents.
 
+- [OpenCV](https://github.com/Qengineering/OpenCV-Livecam-Raspberry-Pi)
 - [Classification](https://github.com/Qengineering/TensorFlow_Lite_Classification_RPi_64-bits)
 - [SSD](https://github.com/Qengineering/TensorFlow_Lite_SSD_RPi_64-bits)
 - [Segmentation](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_RPi_64-bit)
+- [Segmentation Yolact](https://github.com/Qengineering/Yolact-ncnn-Raspberry-Pi-4)
 - [Pose](https://github.com/Qengineering/TensorFlow_Lite_Pose_RPi_64-bits)
 - [Face detection](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits)
 - [Face mask detection Paddle](https://github.com/Qengineering/Face-Mask-Detection-Raspberry-Pi-64-bits)
