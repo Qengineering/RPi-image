@@ -19,7 +19,7 @@ We are regularly asked if we don't have an image of our Raspberry Pi with the [d
 
 ## Tips.
 
-* You can [overclock the Raspberry Pi](https://qengineering.eu/overclocking-the-raspberry-pi-4.html) if your SD-card is not to weared out. 1800 MHz is no problem. Most deep learning examples even work at 1950 MHz.<br/>
+* You can [overclock the Raspberry Pi](https://qengineering.eu/overclocking-the-raspberry-pi-4.html) if your SD-card is not too worn out. 1800 MHz is no problem. Most deep learning examples even work at 1950 MHz.<br/>
 * If you are in need of extra space, you can delete the opencv and the opencv_contrib folder from the SD-card. There are no longer needed since all libraries are placed in the /usr/local directory.
 
 ------------
