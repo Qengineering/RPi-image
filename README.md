@@ -13,6 +13,7 @@ We are regularly asked if we don't have an image of our Raspberry Pi with the [d
 - Unzip the 7z file
 - Flash the image on the SD-card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/)
 - Insert the SD-card in your Raspberry Pi 4 and enjoy.
+- No WiFi installed. Password: ***3.14***
 
 ------------
 
