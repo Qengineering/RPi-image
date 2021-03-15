@@ -9,9 +9,9 @@ We are regularly asked if we don't have an image of our Raspberry Pi with the [d
 ## Installation.
 
 - Get a 16 GB SD-card which will hold the image. 
-- Download the image (4 GByte!) [Mega link](https://mega.nz/file/Yg5V1aRZ#Si0Uv2Aof4EPT4WMMHIGUhEDZrqy7sX8DTseLGv7Sg8)
-- Unzip the 7z file
-- Flash the image on the SD-card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/)
+- Download the image (4 GByte!) [Mega link](https://mega.nz/file/Yg5V1aRZ#Si0Uv2Aof4EPT4WMMHIGUhEDZrqy7sX8DTseLGv7Sg8).
+- Unzip the 7z file.
+- Flash the image on the SD-card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
 - Insert the SD-card in your Raspberry Pi 4 and enjoy.
 - No WiFi installed. Password: ***3.14***
 
