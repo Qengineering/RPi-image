@@ -52,5 +52,5 @@ We are happy to comply with this request.
 - [TensorFlow Addons](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) 0.13.0-dev
 - [Pytorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 1.8.0
 - [TorchVision](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 0.9.0
-<br/>
-![output image]( https://qengineering.eu/images/SD_frameworks.png )<br/>
+
+![output image](https://qengineering.eu/images/SD_frameworks.png)<br/>
