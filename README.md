@@ -10,7 +10,7 @@ We are happy to comply with this request.
 ## Installation.
 
 - Get a 16 GB SD-card which will hold the image. 
-- Download the image (4 GByte!) [Mega link](https://mega.nz/file/x4gSVYIR#fgPrbITp8K2wCtH8SHdzLA_fRyI_PvmyT9ieSy5qXoc).
+- Download the image (4 GByte!) from our [Mega](https://mega.nz/file/x4gSVYIR#fgPrbITp8K2wCtH8SHdzLA_fRyI_PvmyT9ieSy5qXoc) site.
 - Unzip the 7z file.
 - Flash the image on the SD-card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
 - Insert the SD-card in your Raspberry Pi 4 and enjoy.
