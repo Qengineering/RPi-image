@@ -21,6 +21,7 @@ We are regularly asked if we don't have an image of our Raspberry Pi with the [d
 
 * You can [overclock the Raspberry Pi](https://qengineering.eu/overclocking-the-raspberry-pi-4.html) if your SD-card is not too worn out. 1800 MHz is no problem. Most deep learning examples even work at 1950 MHz.<br/>
 * If you are in need of extra space, you can delete the opencv and the opencv_contrib folder from the SD-card. There are no longer needed since all libraries are placed in the /usr/local directory.
+* Use a tool like [GParted](https://gparted.org/) `sudo apt-get install gparted` to expand the 16 GB image to larger SD-cards.
 
 ------------
 
@@ -39,9 +40,16 @@ We are regularly asked if we don't have an image of our Raspberry Pi with the [d
 
 ------------
 
-## Frameworks.
+## Pre-installed frameworks.
 
-- [OpenCV 4.5.1](https://github.com/Qengineering/OpenCV-Livecam-Raspberry-Pi)
-- [ncnn ](https://github.com/Qengineering/OpenCV-Livecam-Raspberry-Pi)
-- 
+- [OpenCV](https://qengineering.eu/deep-learning-with-opencv-on-raspberry-pi-4.html) 4.5.1
+- [ncnn](https://qengineering.eu/install-ncnn-on-raspberry-pi-4.html) 20210124
+- [MNN](https://qengineering.eu/install-mnn-on-raspberry-pi-4.html) 1.1.0
+- [Paddle-Lite](https://qengineering.eu/install-paddle-lite-on-raspberry-pi-4.html) 2.7
+- [TensorFlow-Lite](https://qengineering.eu/install-tensorflow-2-lite-on-raspberry-64-os.html) 2.4.1
+- [TensorFLow](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) 2.4.1
+- [TensorFlow Addons](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) 0.13.0-dev
+- [Pytorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 1.8.0
+- [TorchVision](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 0.9.0
+<br/>
 ![output image]( https://qengineering.eu/images/SD_frameworks.png )<br/>
