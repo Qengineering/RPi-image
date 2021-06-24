@@ -52,4 +52,21 @@ Regularly, we get the question if we have an image of our Raspberry Pi with some
 - [Pytorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 1.8.0
 - [TorchVision](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 0.9.0
 
-![output image](https://qengineering.eu/images/SD_frameworks.png)<br/>
+![output image](https://qengineering.eu/images/SD_frameworks.png)
+
+------------
+
+## OpenCV + TensorFlow.
+
+Importing both TensorFlow and OpenCV into Python can throw the error: _cannot allocate memory in static TLS block_.<br/>
+This behaviour only occurs on an aarch64 system and is caused by the OpenMP memory requirements not being met.<br/>
+For more information, see GitHub ticket [#14884](https://github.com/opencv/opencv/issues/14884).<br/>
+
+![output image](https://qengineering.eu/images/SwapImportOpenCVRPi.png)
+
+There are a few solutions. The easiest is to import OpenCV at the beginning, as shown above.<br/>
+The other is disabling OpenMP by setting the -DBUILD_OPENMP and -DWITH_OPENMP flags OFF.<br/>
+Where possible, OpenCV will now use the default pthread or the TBB engine for parallelization.<br/>
+We don't recommend it. Not all OpenCV algorithms automatically switch to pthread.<br/>
+Our advice is to import OpenCV into Python first before anything else.<br/>
+
