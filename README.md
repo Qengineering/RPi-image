@@ -58,7 +58,7 @@ Regularly, we get the question if we have an image of our Raspberry Pi with some
 
 ## OpenCV + TensorFlow.
 
-Importing both TensorFlow and OpenCV into Python can throw the error: _cannot allocate memory in static TLS block_.<br/>
+Importing both TensorFlow and OpenCV in Python can throw the error: _cannot allocate memory in static TLS block_.<br/>
 This behaviour only occurs on an aarch64 system and is caused by the OpenMP memory requirements not being met.<br/>
 For more information, see GitHub ticket [#14884](https://github.com/opencv/opencv/issues/14884).<br/>
 
