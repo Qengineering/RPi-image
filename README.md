@@ -56,6 +56,24 @@ Regularly, we get the question if we have an image of our Raspberry Pi with some
 
 ------------
 
+## WiFi.
+
+Since everyone has a unique password on their WiFi connection, we have not activated the WiFi.<br/>
+To enable the wireless LAN follow the next steps:<br/>
+
+1) Left click on the Ethernet symbol.<br/><br/>
+![image](https://user-images.githubusercontent.com/44409029/124445112-8eb8e880-dd7f-11eb-80e6-121dc31fd0b8.png)<br/><br/>
+2) Click "Turn on wireless LAN", and wait a few seconds. Your RPi will scan for available networks.<br/><br/>
+![image](https://user-images.githubusercontent.com/44409029/124445876-39310b80-dd80-11eb-97ff-1ef8f8c477e8.png)<br/><br/>
+3) Left click again on the Ethernet symbol and choose your network.<br/><br/>
+![image](https://user-images.githubusercontent.com/44409029/124446101-64b3f600-dd80-11eb-9385-eee4fd730268.png)<br/><br/>
+4) Give your key, and wait a couple of seconds to let the RPi establish the connection.<br/><br/>
+![image](https://user-images.githubusercontent.com/44409029/124447227-74800a00-dd81-11eb-9c47-bee6b2b84bc1.png)<br/><br/>
+5) Success! <br/><br/>
+![image](https://user-images.githubusercontent.com/44409029/124446775-063b4780-dd81-11eb-9fd8-2d597ad31cee.png)
+
+------------
+
 ## OpenCV + TensorFlow.
 
 Importing both TensorFlow and OpenCV in Python can throw the error: _cannot allocate memory in static TLS block_.<br/>
