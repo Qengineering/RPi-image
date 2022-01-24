@@ -2,6 +2,9 @@
 ![output image]( https://qengineering.eu/images/Water6.webp )<br/>
 ## A Raspberry Pi 4 64-OS image with deep learning examples
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
+### January 24, 2022
+Updated and upgraded to the latest Debian 10 **Buster** release.<br/>
+
 Regularly, we get the question if we have an image of our Raspberry Pi with some frameworks and [our deep-learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html). We are happy to comply with this request.
 
 ------------
@@ -9,7 +12,7 @@ Regularly, we get the question if we have an image of our Raspberry Pi with some
 ## Installation.
 
 - Get a 16 GB SD-card which will hold the image. 
-- Download the image RPi_64OS_DNN.zip (4 GByte!) from our [Gdrive](https://drive.google.com/file/d/1RnbAG1JZczkO34XFuUv9kGJJJWftMNAv/view?usp=sharing) site.
+- Download the image RPi_64OS_DNN.zip (4 GByte!) from our [Gdrive](https://drive.google.com/file/d/1Aco_oXYsgZZ6RDJOh695glDGYdrzgm8F/view?usp=sharing) site.
 - Flash the image on the SD-card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
 - Insert the SD-card in your Raspberry Pi 4 and enjoy.
 - No WiFi installed. Password: ***3.14***
