@@ -2,6 +2,9 @@
 ![output image]( https://qengineering.eu/images/Water6.webp )<br/>
 ## A Raspberry Pi 4 64-OS image with deep learning examples
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
+### February 19, 2022
+Use [PiShrink](https://github.com/Drewsif/PiShrink) to support of different SD sizes. Reduced the file from 4.83 to 2.68 GByte <br/>
+
 ### January 24, 2022
 Updated and upgraded to the latest Debian 10 **Buster** release.<br/>
 
@@ -24,7 +27,6 @@ Regularly, we get the question if we have an image of our Raspberry Pi with some
 
 * You can [overclock the Raspberry Pi](https://qengineering.eu/overclocking-the-raspberry-pi-4.html) if your SD-card is not too worn out. 1800 MHz is no problem. Most deep learning examples even work at 1950 MHz.<br/>
 * If you are in need of extra space, you can delete the opencv and the opencv_contrib folder from the SD-card. There are no longer needed since all libraries are placed in the /usr/local directory.
-* Use a tool like [GParted](https://gparted.org/) `sudo apt-get install gparted` to expand the 16 GB image to larger SD-cards.
 
 ------------
 
