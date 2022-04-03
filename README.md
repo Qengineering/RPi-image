@@ -20,6 +20,7 @@ Regularly, we get the question if we have an image of our Raspberry Pi with some
 - Insert the SD-card in your Raspberry Pi 4.
 - Wait a few minutes, while the image will expand to the full size of your SD card.
 - No WiFi installed. Password: ***3.14***
+- RPi_64OS_DNN.xz md5sum: c4c7b4e6571f690d4f6c156ca5df9444
 
 ------------
 
