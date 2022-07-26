@@ -2,6 +2,9 @@
 ![output image]( https://qengineering.eu/images/Water6.webp )<br/>
 ## A Raspberry Pi 4 64-OS image with deep learning examples
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
+### Update 7-26-2022. 
+- New download site (Gdrive has a limited number of downloads per day).<br/>
+
 ### February 19, 2022
 Use [PiShrink](https://github.com/Drewsif/PiShrink) to support of different SD sizes. Reduced the file from 4.83 to 2.68 GByte <br/>
 
@@ -15,7 +18,7 @@ Regularly, we get the question if we have an image of our Raspberry Pi with some
 ## Installation.
 
 - Get a 16 GB SD-card which will hold the image. 
-- Download the image RPi_64OS_DNN.xz (2.68 GByte!) from our [Gdrive](https://drive.google.com/file/d/1s8ulI44O96qmVPmWyz8yw3lzamh-32gN/view?usp=sharing) or mirror [Gdrive](https://drive.google.com/file/d/1Ae2mj06bVnej0igNd8N0pmsKZSbXgDZH/view?usp=sharing) or [Mirror](https://ln5.sync.com/dl/8dc06d210/x5e7vpik-3sr4jjub-z2vckx8a-p732jfdj) site.
+- Download the image RPi_64OS_DNN.xz (2.68 GByte!) from [Sync](https://ln5.sync.com/dl/8dc06d210/x5e7vpik-3sr4jjub-z2vckx8a-p732jfdj).
 - Flash the image on the SD-card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
 - Insert the SD-card in your Raspberry Pi 4.
 - Wait a few minutes, while the image will expand to the full size of your SD card.
