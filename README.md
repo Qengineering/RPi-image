@@ -6,10 +6,10 @@
 - New download site (Gdrive has a limited number of downloads per day).<br/>
 
 ### February 19, 2022
-Use [PiShrink](https://github.com/Drewsif/PiShrink) to support of different SD sizes. Reduced the file from 4.83 to 2.68 GByte <br/>
+- Use [PiShrink](https://github.com/Drewsif/PiShrink) to support of different SD sizes. Reduced the file from 4.83 to 2.68 GByte <br/>
 
 ### January 24, 2022
-Updated and upgraded to the latest Debian 10 **Buster** release.<br/>
+- Updated and upgraded to the latest Debian 10 **Buster** release.<br/>
 
 Regularly, we get the question if we have an image of our Raspberry Pi with some frameworks and [our deep-learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html). We are happy to comply with this request.
 
