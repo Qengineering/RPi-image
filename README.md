@@ -18,7 +18,7 @@ Regularly, we get the question if we have an image of our Raspberry Pi with some
 ## Installation.
 
 - Get a 16 GB SD-card which will hold the image. 
-- Download the image RPi_64OS_DNN.xz (2.68 GByte!) from [Sync](https://ln5.sync.com/dl/8dc06d210/x5e7vpik-3sr4jjub-z2vckx8a-p732jfdj).
+- Download the image RPi_64OS_DNN.xz (2.68 GByte!) from [Sync](https://ln5.sync.com/dl/00118ac90/hvi2wsfy-i7dus6ch-ae4q94ya-x5k9ir3i).
 - Flash the image on the SD-card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
 - Insert the SD-card in your Raspberry Pi 4.
 - Wait a few minutes, while the image will expand to the full size of your SD card.
