@@ -1,5 +1,5 @@
 # Raspberry Pi 4 DNN image
-![output image]( https://qengineering.eu/images/Water6.webp )<br/>
+![output image]( https://qengineering.eu/images/Water7.webp )<br/>
 ## A Raspberry Pi 4 64-OS image with deep learning examples
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 ### Update 7-26-2022. 
