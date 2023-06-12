@@ -1,7 +1,10 @@
 # Raspberry Pi 4 Buster DNN image
 ![output image]( https://qengineering.eu/images/Water7.webp )<br/>
-## A Raspberry Pi 4 64-OS image with deep learning examples
+## A Raspberry Pi 4 Buster 64-OS image with deep learning examples
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
+### June 12, 2023
+- Release of the [**Bullseye version**](https://github.com/Qengineering/RPi-Bullseye-DNN-image).
+
 ### Update 7-26-2022. 
 - New download site (Gdrive has a limited number of downloads per day).<br/>
 
@@ -56,7 +59,7 @@ Regularly, we get the question if we have an image of our Raspberry Pi with some
 - [MNN](https://qengineering.eu/install-mnn-on-raspberry-pi-4.html) 1.1.0
 - [Paddle-Lite](https://qengineering.eu/install-paddle-lite-on-raspberry-pi-4.html) 2.7
 - [TensorFlow-Lite](https://qengineering.eu/install-tensorflow-2-lite-on-raspberry-64-os.html) 2.4.1
-- [TensorFLow](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) 2.4.1
+- [TensorFlow](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) 2.4.1
 - [TensorFlow Addons](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) 0.13.0-dev
 - [Pytorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 1.8.0
 - [TorchVision](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 0.9.0
