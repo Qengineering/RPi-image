@@ -1,6 +1,6 @@
 # Raspberry Pi 4 Buster DNN image
 ![output image]( https://qengineering.eu/images/Water7.webp )<br/>
-## A Raspberry Pi 4 Buster 64-OS image with deep learning examples
+## A Raspberry Pi 4 Buster 64-OS image with deep-learning examples
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 ### June 12, 2023
 - Release of the [**Bullseye version**](https://github.com/Qengineering/RPi-Bullseye-DNN-image).
@@ -20,10 +20,10 @@ Regularly, we get the question if we have an image of our Raspberry Pi with some
 
 ## Installation.
 
-- Get a 16 GB SD-card which will hold the image. 
+- Get a 16 GB SD card which will hold the image. 
 - Download the image RPi_64OS_DNN.xz (2.68 GByte!) from [Sync](https://ln5.sync.com/dl/00118ac90/hvi2wsfy-i7dus6ch-ae4q94ya-x5k9ir3i).
-- Flash the image on the SD-card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
-- Insert the SD-card in your Raspberry Pi 4.
+- Flash the image on the SD card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
+- Insert the SD card into your Raspberry Pi 4.
 - Wait a few minutes, while the image will expand to the full size of your SD card.
 - No WiFi installed. Password: ***3.14***
 - RPi_64OS_DNN.xz md5sum: c4c7b4e6571f690d4f6c156ca5df9444
@@ -33,7 +33,7 @@ Regularly, we get the question if we have an image of our Raspberry Pi with some
 ## Tips.
 
 * You can [overclock the Raspberry Pi](https://qengineering.eu/overclocking-the-raspberry-pi-4.html) if your SD-card is not too worn out. 1800 MHz is no problem. Most deep learning examples even work at 1950 MHz.<br/>
-* If you are in need of extra space, you can delete the opencv and the opencv_contrib folder from the SD-card. There are no longer needed since all libraries are placed in the /usr/local directory.
+* If you are in need of extra space, you can delete the opencv and the opencv_contrib folder from the SD card. There are no longer needed since all libraries are placed in the /usr/local directory.
 
 ------------
 
@@ -75,13 +75,13 @@ Clicking on the links below will direct you to our installation guide.<br>
 ## WiFi.
 
 Since everyone has a unique password on their WiFi connection, we have not activated the WiFi.<br/>
-To enable the wireless LAN follow the next steps:<br/>
+To enable the wireless LAN to follow the next steps:<br/>
 
-1) Left click on the Ethernet symbol.<br/><br/>
+1) Left-click on the Ethernet symbol.<br/><br/>
 ![image](https://user-images.githubusercontent.com/44409029/124445112-8eb8e880-dd7f-11eb-80e6-121dc31fd0b8.png)<br/><br/>
 2) Click "Turn on wireless LAN", and wait a few seconds. Your RPi will scan for available networks.<br/><br/>
 ![image](https://user-images.githubusercontent.com/44409029/124445876-39310b80-dd80-11eb-97ff-1ef8f8c477e8.png)<br/><br/>
-3) Left click again on the Ethernet symbol and choose your network.<br/><br/>
+3) Left-click again on the Ethernet symbol and choose your network.<br/><br/>
 ![image](https://user-images.githubusercontent.com/44409029/124446101-64b3f600-dd80-11eb-9385-eee4fd730268.png)<br/><br/>
 4) Give your key, and wait a couple of seconds to let the RPi establish the connection.<br/><br/>
 ![image](https://user-images.githubusercontent.com/44409029/124447227-74800a00-dd81-11eb-9c47-bee6b2b84bc1.png)<br/><br/>
