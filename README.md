@@ -33,7 +33,7 @@ Regularly, we get the question if we have an image of our Raspberry Pi with some
 ## Tips.
 
 * You can [overclock the Raspberry Pi](https://qengineering.eu/overclocking-the-raspberry-pi-4.html) if your SD-card is not too worn out. 1800 MHz is no problem. Most deep learning examples even work at 1950 MHz.<br/>
-* If you are in need of extra space, you can delete the opencv and the opencv_contrib folder from the SD card. There are no longer needed since all libraries are placed in the /usr/local directory.
+* If you are in need of extra space, you can delete the opencv and the opencv_contrib folder from the SD card. They are no longer needed since all libraries are placed in the /usr/local directory.
 
 ------------
 
@@ -74,7 +74,7 @@ Clicking on the links below will direct you to our installation guide.<br>
 
 ## WiFi.
 
-Since everyone has a unique password on their WiFi connection, we have not activated the WiFi.<br/>
+Since everyone has a unique password for their WiFi connection, we have not activated the WiFi.<br/>
 To enable the wireless LAN to follow the next steps:<br/>
 
 1) Left-click on the Ethernet symbol.<br/><br/>
