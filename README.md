@@ -1,6 +1,6 @@
 # Raspberry Pi 4 Buster DNN image
 ![output image]( https://qengineering.eu/images/Water7.webp )<br/>
-## A Raspberry Pi 4 Buster 64-OS image with deep-learning examples
+## A Raspberry Pi 4 Buster 64-bit OS image with deep-learning examples
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 ### June 12, 2023
 - Release of the [**Bullseye version**](https://github.com/Qengineering/RPi-Bullseye-DNN-image).
@@ -21,10 +21,10 @@ Regularly, we get the question if we have an image of our Raspberry Pi with some
 ## Installation.
 
 - Get a 16 GB SD card which will hold the image. 
-- Download the image RPi_64OS_DNN.xz (2.68 GByte!) from [Sync](https://ln5.sync.com/dl/00118ac90/hvi2wsfy-i7dus6ch-ae4q94ya-x5k9ir3i).
+- Download the image RPi_64OS_DNN.xz (2.68 GByte!) from our [server](https://storage.qengineering.eu/RPi_64OS_DNN.xz).
 - Flash the image on the SD card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
 - Insert the SD card into your Raspberry Pi 4.
-- Wait a few minutes, while the image will expand to the full size of your SD card.
+- Wait a few minutes while the image expands to the full size of your SD card.
 - No WiFi installed. Password: ***3.14***
 - RPi_64OS_DNN.xz md5sum: c4c7b4e6571f690d4f6c156ca5df9444
 
